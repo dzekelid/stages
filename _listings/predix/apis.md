@@ -7,11 +7,41 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "264121"
 tags: Stages
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/predix/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Event Audit Trail Documentation - Get Plugins Archive Tenants Staged Events
+  x-api-slug: v1pluginsarchivetenantstenant-uuidstagedevents-get
+  description: Get plugins archive tenants staged events.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://event-audit-trail.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/predix/v1pluginsarchivetenantstenant-uuidstagedevents-get-openapi.md
+- name: Event Audit Trail Documentation - Get Plugins Archive Tenants Staged Events
+  x-api-slug: v1pluginsarchivetenantstenant-uuidstagedevents-get
+  description: Get plugins archive tenants staged events.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://event-audit-trail.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/predix/v1pluginsarchivetenantstenant-uuidstagedevents-get-openapi.md
+- name: Event Audit Trail Documentation - Get Plugins Archive Tenants Staged Events
+  x-api-slug: v1pluginsarchivetenantstenant-uuidstagedevents-get
+  description: Get plugins archive tenants staged events.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png
+  humanURL: https://www.predix.io
+  baseURL: https://event-audit-trail.run.aws-usw02-pr.ice.predix.io//
+  tags: SaaS, Technology, Enterprise, Internet of Things, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/predix/v1pluginsarchivetenantstenant-uuidstagedevents-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://predicthq.api.gallery.streamdata.io

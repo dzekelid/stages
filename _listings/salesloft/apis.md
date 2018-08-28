@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Stages
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/apis.md
 specificationVersion: "0.14"
 apis:
@@ -133,6 +133,56 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-put-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-put-openapi.md
+- name: SalesLoft - Update a person stage
+  x-api-slug: v2person-stagesid-json-put
+  description: Updates a person stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png
+  humanURL: http://salesloft.com
+  baseURL: https://api.salesloft.com//
+  tags: Sales, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-put-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-put-openapi.md
+- name: SalesLoft - Fetch a person stage
+  x-api-slug: v2person-stagesid-json-get
+  description: Fetches a person stage, by ID only.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png
+  humanURL: http://salesloft.com
+  baseURL: https://api.salesloft.com//
+  tags: Sales, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-get-openapi.md
+- name: SalesLoft - Delete an person stage
+  x-api-slug: v2person-stagesid-json-delete
+  description: |-
+    Deletes a person stage. This operation is not reversible without contacting support.
+    This operation can be called multiple times successfully.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png
+  humanURL: http://salesloft.com
+  baseURL: https://api.salesloft.com//
+  tags: Sales, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-delete-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stagesid-json-delete-openapi.md
+- name: SalesLoft - Create a person stage
+  x-api-slug: v2person-stages-json-post
+  description: Creates a person stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png
+  humanURL: http://salesloft.com
+  baseURL: https://api.salesloft.com//
+  tags: Sales, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stages-json-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/salesloft/v2person-stages-json-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://salesforce.api.gallery.streamdata.io

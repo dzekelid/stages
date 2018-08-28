@@ -16,11 +16,143 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Stages
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS API Gateway API - Stage Update
+  x-api-slug: restapisfugvjdxtristagesstage1-patch
+  description: Changes information about the stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisfugvjdxtristagesstage1-patch-openapi.md
+- name: AWS API Gateway API - Stage Delete
+  x-api-slug: restapisuycll6xg9astagesalpha-delete
+  description: Deletes a named stage of a given API.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalpha-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacachedata-delete
+  description: Flushes the cached data of a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacachedata-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacacheauthorizers-delete
+  description: Flushes all cached Authorizer entries on a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacacheauthorizers-delete-openapi.md
+- name: AWS API Gateway API - Stage Update
+  x-api-slug: restapisfugvjdxtristagesstage1-patch
+  description: Changes information about the stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisfugvjdxtristagesstage1-patch-openapi.md
+- name: AWS API Gateway API - Stage Delete
+  x-api-slug: restapisuycll6xg9astagesalpha-delete
+  description: Deletes a named stage of a given API.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalpha-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacachedata-delete
+  description: Flushes the cached data of a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacachedata-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacacheauthorizers-delete
+  description: Flushes all cached Authorizer entries on a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacacheauthorizers-delete-openapi.md
+- name: AWS API Gateway API - Stage Update
+  x-api-slug: restapisfugvjdxtristagesstage1-patch
+  description: Changes information about the stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisfugvjdxtristagesstage1-patch-openapi.md
+- name: AWS API Gateway API - Stage Delete
+  x-api-slug: restapisuycll6xg9astagesalpha-delete
+  description: Deletes a named stage of a given API.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalpha-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacachedata-delete
+  description: Flushes the cached data of a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacachedata-delete-openapi.md
+- name: AWS API Gateway API - Stage Flush
+  x-api-slug: restapisuycll6xg9astagesalphacacheauthorizers-delete
+  description: Flushes all cached Authorizer entries on a named stage.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+  humanURL: https://aws.amazon.com/api-gateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Deployments, Profiles, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/stages/master/_listings/aws-api-gateway/restapisuycll6xg9astagesalphacacheauthorizers-delete-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://awhere.api.gallery.streamdata.io
